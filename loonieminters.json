@@ -1,6 +1,6 @@
 {
 "name": "LoonieMinters",
 "description": "Minting virtual loonies in ada format",
-"ticker": "TICKER",
+"ticker": "LM",
 "homepage": "https://seanchristopherconway.github.io/"
 } 
